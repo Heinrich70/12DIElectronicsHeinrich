@@ -4,7 +4,7 @@ const int servoPin2 = 7;
 
 Servo servo1;
 Servo servo2;
-
+//setup code
 void setup() {
   // put your setup code here, to run once:
 servo1.attach(servoPin1);
